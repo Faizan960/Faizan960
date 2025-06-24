@@ -5,9 +5,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/https://www.instagram.com/_faizanx_x?utm_source=ig_web_button_share_sheet&igsh=mth1otzkagf5mtz0yg==" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-</a>
+  <a href="https://www.instagram.com/_faizanx_x" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -77,5 +77,5 @@
 ### 🔥 GitHub Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faizan960&theme=tokyonight" alt="Faizan's Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faizan960&theme=tokyonight" alt="Faizan's GitHub streak"/>
 </p>
