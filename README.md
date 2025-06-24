@@ -48,13 +48,3 @@
 | Day-05     | `cut`, `uniq`, `sort`, `awk`, and data processing basics         |
 | Day-06     | File Permissions, Ownership, `chmod`, `chown`, and `umask`       |
 | ⏳ Coming  | Redirection, Pipes, `tee`, cron jobs, Docker, GitHub Actions...  |
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faizan960&show_icons=true&locale=en&layout=compact" alt="faizan960" />
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faizan960&show_icons=true&locale=en" alt="faizan960" /></p>
