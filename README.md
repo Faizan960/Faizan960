@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm M Faizan Patel</h1>
-<h3 align="center">A passionate DevOps-Engineer from India</h3>
 
-- 📫 How to reach me **faizanpatel2226@gmail.com**
+🚀 A passionate DevOps Enthusiast & Engineer from India  
+🌱 Currently diving deep into Linux, Bash scripting, GitHub Actions, and CI/CD.  
+📂 Documenting my DevOps journey: [DevOps-Practice Repository](https://github.com/Faizan960/DevOps-Practice)  
+📅 Learning one day at a time — scripts, tools, automations & real-world tasks.
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -10,9 +14,10 @@
   </a>
 </p>
 
+---
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <!-- All your original icons remain untouched here -->
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
   </a>
@@ -79,3 +84,20 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faizan960&theme=tokyonight" alt="Faizan's GitHub streak"/>
 </p>
+
+---
+
+### 📅 My DevOps Learning Journey
+
+| 📁 Folder      | 📜 Description                                                                 |
+|----------------|---------------------------------------------------------------------------------|
+| Day-01         | Basic Linux commands, file operations, intro to Git & Bash                      |
+| Day-02         | Conditional statements, bash scripts with if/else                               |
+| Day-03         | Loops (for, while, until) and functions in Bash                                 |
+| Day-04         | Script arguments, real-world automation, and date-based backups                 |
+| Day-05         | Text processing using `cut`, `awk`, and `sort`, handling CSV data               |
+| Day-06         | File permissions, ownership, `chmod`, `chown`, `umask`, `id`, and `groups`      |
+| Day-07 - Day-10| 📌 Coming Soon... Stay tuned! 🚀                                                 |
+
+---
+
