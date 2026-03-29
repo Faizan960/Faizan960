@@ -72,26 +72,6 @@ quote: "Strong fundamentals first — tools and frameworks follow."
 
 ---
 
-## 📂 Featured Projects
-
-### 📡 FamilyPing
-> Offline BLE mesh-based family safety tracker | Java + Android Studio
-- AES-256 encryption, no server dependency
-- OSMDroid maps + SQLite storage
-- Built for families during emergencies & evacuations
-
-### 🏥 Wellness App
-> React + Supabase personal wellness hub
-- Workout planner, sleep tracker, period tracker
-- Islamic features integration
-- Cloud-synced with Supabase
-
-### 🛠️ DevOps Practice Repo
-> Hands-on learning repository
-- 👉 [github.com/Faizan960/DevOps-Practice](https://github.com/Faizan960/DevOps-Practice)
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
