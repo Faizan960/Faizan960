@@ -36,8 +36,8 @@ A digital companion focused on helping Muslims build better habits around **Sala
 ### 🎮 Wrong Turn
 A game project currently in development, focused on creating an engaging gameplay experience while exploring modern web/game development workflows.
 
-### ☁️ DevOps Practice
-A hands-on learning repository covering **Linux, Bash, Git, Docker, CI/CD, and deployment concepts**.
+### 🏥 GramCare
+An **AI-powered offline disease outbreak monitoring system** designed to support early detection and community-level health surveillance, with a focus on working in environments with limited or unreliable internet connectivity.
 
 ---
 
