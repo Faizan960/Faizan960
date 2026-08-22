@@ -22,8 +22,7 @@ name: M Faizan Patel
 location: Mumbai, India 🇮🇳
 role: Software Engineering Student → Cloud + AI Engineer
 focus:
-  - ☁️  AWS Cloud (CLF-C02 — April 2025)
-  - 🤖  Agentic AI & LLM-powered applications
+  - ☁️  AWS Cloud 
   - 🔧  DevOps — Docker, CI/CD, Linux
   - ⚛️  Full-Stack with React + Node.js
 currently_building:
@@ -40,7 +39,6 @@ quote: "Strong fundamentals first — tools and frameworks follow."
 | Area | Status |
 |------|--------|
 | ☁️ AWS Cloud Practitioner (CLF-C02) | 🔥 Actively Preparing |
-| 🤖 Agentic AI with LangChain | 📖 Learning |
 | 🛠️ DevOps — Docker, GitHub Actions | ✅ Hands-on Practice |
 | ⚛️ React + Supabase App | 🏗️ Building |
 
