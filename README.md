@@ -1,141 +1,150 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=M%20Faizan%20Patel&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Cloud%20%2B%20Agentic%20AI%20Developer%20%7C%20Mumbai%2C%20India&descAlignY=55&descSize=16" />
-</p>
+<div align="center">
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Faizan+%F0%9F%91%8B;Cloud+%2B+Agentic+AI+Developer;DevOps+%7C+Full-Stack+%7C+Android;Building+the+future%2C+one+deploy+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
-</h3>
+# Hi 👋, I'm Faizan Patel
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Faizan960&label=Profile+Views&color=00d9ff&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/Faizan960?label=Followers&style=flat-square&color=00d9ff" />
-  <img src="https://img.shields.io/badge/Focus-Cloud+%2B+AI-00d9ff?style=flat-square" />
-  <img src="https://img.shields.io/badge/Lives-Mumbai%2C+India-00d9ff?style=flat-square" />
-</p>
+### Computer Engineering Student • Full-Stack Developer • Cloud & DevOps Enthusiast
 
----
+I build practical software, experiment with AI, and turn ideas into real products.
 
-## 🧠 About Me
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://personal-portfolio-sigma-cyan-41.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faizan-patel2/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_faizanx_x/)
+[![GitHub](https://img.shields.io/badge/GitHub-Faizan960-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Faizan960)
 
-```yaml
-name: M Faizan Patel
-location: Mumbai, India 🇮🇳
-role: Software Engineering Student → Cloud + AI Engineer
-focus:
-  - ☁️  AWS Cloud 
-  - 🔧  DevOps — Docker, CI/CD, Linux
-  - ⚛️  Full-Stack with React + Node.js
-currently_building:
-  - 🏥  Wellness app with React + Supabase
-  - 📡  FamilyPing — offline BLE mesh safety tracker (Java/Android)
-  - 🤖  Exploring LangChain & multi-agent workflows
-quote: "Strong fundamentals first — tools and frameworks follow."
-```
+</div>
 
 ---
 
-## 🚀 Current Focus
+## 👨‍💻 About Me
 
-| Area | Status |
-|------|--------|
-| ☁️ AWS Cloud Practitioner (CLF-C02) | 🔥 Actively Preparing |
-| 🛠️ DevOps — Docker, GitHub Actions | ✅ Hands-on Practice |
-| ⚛️ React + Supabase App | 🏗️ Building |
+- 🎓 Final-year **Computer Engineering** student
+- 💻 Interested in **Full-Stack Development, Cloud, DevOps, and AI**
+- 🚀 I enjoy building projects that solve real problems rather than just following tutorials
+- 🧠 Currently deepening my skills in **AWS, Docker, CI/CD, Linux, and AI-powered applications**
+- 🛠️ I like taking an idea from **concept → code → deployment**
+- 📍 Mumbai, India 🇮🇳
+
+> **Build. Break. Learn. Improve. Repeat.**
+
+---
+
+## 🚀 What I'm Building
+
+### 🕌 Niyyah
+A digital companion focused on helping Muslims build better habits around **Salah, Quran, Hadith, Azkar, Qibla, and mindful phone usage**.
+
+### 🎮 Wrong Turn
+A game project currently in development, focused on creating an engaging gameplay experience while exploring modern web/game development workflows.
+
+### ☁️ DevOps Practice
+A hands-on learning repository covering **Linux, Bash, Git, Docker, CI/CD, and deployment concepts**.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+### Languages
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-### 🌐 Web Development
+### Web & App Development
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-### ☁️ Cloud & DevOps
+### Cloud & DevOps
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 🗄️ Databases
+### Databases & Tools
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 🌟 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [**Niyyah.app**](https://github.com/Faizan960/Niyyah.app) | Islamic productivity & spiritual companion app | React / Web / AI-assisted development |
+| [**Wrong-Turn**](https://github.com/Faizan960/Wrong-Turn) | Game project currently in development | Web / Game Development |
+| [**Collab-Notes**](https://github.com/Faizan960/Collab-Notes) | Collaborative notes application | React / TypeScript |
+| [**Deepfakedetection**](https://github.com/Faizan960/Deepfakedetection) | Deepfake detection project | Python / AI |
+| [**Github-Explore-Page**](https://github.com/Faizan960/Github-Explore-Page) | GitHub-inspired exploration interface | React / TypeScript / Tailwind |
+| [**DevOps-Practice**](https://github.com/Faizan960/DevOps-Practice) | Structured DevOps learning & practice | Bash / Git / Docker |
+
+---
+
+## 📚 Currently Learning
+
+```text
+AWS Cloud
+   ↓
+Linux & Networking
+   ↓
+Docker & Containers
+   ↓
+CI/CD & GitHub Actions
+   ↓
+Cloud Deployment
+   ↓
+AI-powered Applications
+```
+
+I'm particularly interested in understanding **how software moves from a local development environment to a reliable production system**.
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Faizan960&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faizan960&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" width="48%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan960&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF" width="40%" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Faizan960&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github)
 
----
+![GitHub Streak](https://streak-stats.demolab.com?user=Faizan960&theme=tokyonight&hide_border=true)
 
-## 🏆 GitHub Trophies
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan960&layout=compact&hide_border=true&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Faizan960&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
-</p>
+</div>
 
 ---
 
-## 📈 Contribution Graph
+## 🤝 Let's Connect
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Faizan960&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" />
-</p>
+I'm always interested in **building projects, learning new technologies, collaborating with developers, and discussing interesting ideas**.
 
----
+<div align="center">
 
-## 💡 Dev Quote of the Day
+📧 **Open to:** Internships • Projects • Collaboration • Tech Opportunities
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Portfolio-111827?style=for-the-badge)](https://personal-portfolio-sigma-cyan-41.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/faizan-patel2/)
+[![Instagram](https://img.shields.io/badge/📸_Instagram-@_faizanx_x-E4405F?style=for-the-badge)](https://www.instagram.com/_faizanx_x/)
 
----
-
-## 🎯 Career Objective
-
-I'm an aspiring **Cloud + AI Engineer** from Mumbai, combining hands-on DevOps skills with emerging expertise in **Agentic AI and LLM-powered applications**.
-
-Currently targeting **off-campus internships and fresher roles** in Cloud, DevOps, and AI Engineering — open to remote and hybrid opportunities across India.
-
-📬 **Open to:** Cloud Engineer · DevOps Engineer · AI/ML Engineer · Backend Developer
+</div>
 
 ---
 
-## 🔗 Connect with Me
+<div align="center">
 
-<p align="left">
-  <a href="https://www.instagram.com/_faizanx_x?igsh=MTZ2YnNvd2pqNmljdA==">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://github.com/Faizan960">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+### Thanks for stopping by! 👋
 
----
+⭐ Feel free to explore my repositories and follow my journey.
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-</p>
+</div>
