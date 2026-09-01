@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Faizan Patel
 
-### Computer Engineering Student • Full-Stack Developer • Cloud & DevOps Enthusiast
+### Computer Engineering Student • Cloud & DevOps Enthusiast
 
 I build practical software, experiment with AI, and turn ideas into real products.
 
