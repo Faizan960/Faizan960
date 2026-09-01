@@ -18,7 +18,7 @@ I build practical software, experiment with AI, and turn ideas into real product
 ## 👨‍💻 About Me
 
 - 🎓 Final-year **Computer Engineering** student
-- 💻 Interested in **Full-Stack Development, Cloud, DevOps, and AI**
+- 💻 Interested in ** Cloud, DevOps, and AI**
 - 🚀 I enjoy building projects that solve real problems rather than just following tutorials
 - 🧠 Currently deepening my skills in **AWS, Docker, CI/CD, Linux, and AI-powered applications**
 - 🛠️ I like taking an idea from **concept → code → deployment**
